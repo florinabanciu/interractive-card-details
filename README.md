@@ -1,0 +1,1 @@
+interractive-card-details
